@@ -1,6 +1,6 @@
 {
   "name": "function-equal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compares two functions, are they equal? Checks their names, bodies and argument names. Powered by `parse-function`.",
   "repository": "tunnckoCore/function-equal",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
