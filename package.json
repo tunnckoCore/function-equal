@@ -25,6 +25,7 @@
   ],
   "verb": {
     "toc": false,
+    "layout": "empty",
     "tasks": [
       "readme"
     ],

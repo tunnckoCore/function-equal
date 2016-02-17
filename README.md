@@ -44,11 +44,11 @@ console.log(fnEqual(function a (foo) {}, function a (bar) {})) // => false
 
 ## Related
 * [error-base](https://www.npmjs.com/package/error-base): Create custom Error classes. | [homepage](https://github.com/doowb/error-base)
-* [is-empty-function](https://www.npmjs.com/package/is-empty-function): Check that given string, function or arrow function have empty body, using `parse-function`. | [homepage](https://github.com/tunnckocore/is-empty-function)
-* [kind-error](https://www.npmjs.com/package/kind-error): Base class for easily creating meaningful and quiet by default Error classes with… [more](https://www.npmjs.com/package/kind-error) | [homepage](https://github.com/tunnckocore/kind-error)
+* [is-empty-function](https://www.npmjs.com/package/is-empty-function): Check that given string, function or arrow function have empty body,… [more](https://www.npmjs.com/package/is-empty-function) | [homepage](https://github.com/tunnckocore/is-empty-function)
+* [kind-error](https://www.npmjs.com/package/kind-error): Base class for easily creating meaningful and quiet by default Error… [more](https://www.npmjs.com/package/kind-error) | [homepage](https://github.com/tunnckocore/kind-error)
 * [kind-of](https://www.npmjs.com/package/kind-of): Get the native type of a value. | [homepage](https://github.com/jonschlinkert/kind-of)
-* [parse-function](https://www.npmjs.com/package/parse-function): Parse a function, arrow function or string to object with name, args, params… [more](https://www.npmjs.com/package/parse-function) | [homepage](https://github.com/tunnckocore/parse-function)
-* [useful-error](https://www.npmjs.com/package/useful-error): Enhanced Error class for creating meaningful and customizable error classes. Adds option to… [more](https://www.npmjs.com/package/useful-error) | [homepage](https://github.com/tunnckocore/useful-error)
+* [parse-function](https://www.npmjs.com/package/parse-function): Parse a function, arrow function or string to object with name,… [more](https://www.npmjs.com/package/parse-function) | [homepage](https://github.com/tunnckocore/parse-function)
+* [useful-error](https://www.npmjs.com/package/useful-error): Enhanced Error class for creating meaningful and customizable error classes. Adds… [more](https://www.npmjs.com/package/useful-error) | [homepage](https://github.com/tunnckocore/useful-error)
 
 ## Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/function-equal/issues/new).  
